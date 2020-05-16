@@ -1,0 +1,6 @@
+Options -Indexes
+ErrorDocument 400 /error/400.html
+ErrorDocument 401 /error/401.html
+ErrorDocument 403 /error/403.html
+ErrorDocument 404 /wagenzuege/default.php
+ErrorDocument 500 /error/500.html

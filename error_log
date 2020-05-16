@@ -1,0 +1,383 @@
+[15-Dec-2019 21:50:46 Europe/Vienna] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/efbcxwxo/webcontent/nextrain/master.php on line 115
+[17-Dec-2019 06:18:34 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:478
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 478
+[17-Dec-2019 07:34:50 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:478
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 478
+[21-Dec-2019 18:57:41 Europe/Berlin] PHP Notice:  Undefined variable: errorMessage in /home/efbcxwxo/webcontent/nextrain/login.php on line 155
+[21-Dec-2019 18:57:42 Europe/Berlin] PHP Notice:  Undefined variable: errorMessage in /home/efbcxwxo/webcontent/nextrain/login.php on line 155
+[21-Feb-2020 07:30:59 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 13:56:12 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2339')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 13:59:18 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2339')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 14:01:00 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2339')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 14:02:27 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2239')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 14:03:34 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2239')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 14:04:38 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2239')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 14:05:07 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2239')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 14:07:27 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2239')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[21-Feb-2020 16:25:03 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2347')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[23-Feb-2020 14:11:12 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('643')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[23-Feb-2020 14:12:01 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('539')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[24-Feb-2020 06:55:09 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[24-Feb-2020 06:59:24 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[24-Feb-2020 07:30:16 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[24-Feb-2020 07:33:48 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[24-Feb-2020 07:35:13 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[24-Feb-2020 17:00:32 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2251')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[25-Feb-2020 07:16:23 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[27-Feb-2020 07:53:04 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2216')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[27-Feb-2020 08:44:01 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2216')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[27-Feb-2020 14:27:27 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2241')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[27-Feb-2020 14:31:19 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2241')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[27-Feb-2020 14:31:59 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2241')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[28-Feb-2020 06:48:48 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[28-Feb-2020 06:56:59 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[28-Feb-2020 07:33:05 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[28-Feb-2020 13:55:08 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2339')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[28-Feb-2020 13:56:41 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2339')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[28-Feb-2020 13:57:28 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2339')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[01-Mar-2020 14:48:29 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2342')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[01-Mar-2020 14:49:19 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2342')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[02-Mar-2020 07:31:54 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[02-Mar-2020 07:36:23 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[03-Mar-2020 08:41:34 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2318')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[03-Mar-2020 16:16:59 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2349')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[03-Mar-2020 16:25:31 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2349')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[03-Mar-2020 17:02:57 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2349')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 07:40:40 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2212')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 07:42:09 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2212')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 08:13:49 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2212')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 08:19:00 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2212')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 08:19:07 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2212')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 08:22:51 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2212')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 14:28:24 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2341')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[04-Mar-2020 14:58:43 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2241')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[06-Mar-2020 06:56:49 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[06-Mar-2020 07:31:29 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[09-Mar-2020 06:55:31 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[09-Mar-2020 06:57:28 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[09-Mar-2020 07:35:39 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[09-Mar-2020 17:00:58 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2251')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[09-Mar-2020 17:01:15 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2251')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[09-Mar-2020 17:02:13 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2251')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[09-Mar-2020 17:06:13 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2251')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 06:55:17 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 06:56:26 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 06:57:07 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 16:13:11 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2349')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 16:15:39 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2349')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 16:20:21 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(191): wagenreihung('24646')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 16:21:04 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(191): wagenreihung('22654')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[10-Mar-2020 16:21:22 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(191): wagenreihung('22654')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[12-Mar-2020 08:38:30 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2216')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[12-Mar-2020 08:42:15 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2216')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[12-Mar-2020 08:45:50 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2216')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[12-Mar-2020 16:23:59 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2247')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[12-Mar-2020 22:33:06 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[13-Mar-2020 06:56:44 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2310')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[25-Mar-2020 22:46:37 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2373')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[13-Apr-2020 23:16:45 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('462')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[17-Apr-2020 08:46:04 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('596')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[07-May-2020 09:41:56 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2322')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
+[07-May-2020 09:46:14 Europe/Vienna] PHP Fatal error:  Uncaught Error: Call to a member function getElementById() on boolean in /home/efbcxwxo/webcontent/nextrain/master.php:477
+Stack trace:
+#0 /home/efbcxwxo/webcontent/nextrain/lt.php(189): wagenreihung('2322')
+#1 {main}
+  thrown in /home/efbcxwxo/webcontent/nextrain/master.php on line 477
